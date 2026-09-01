@@ -1,1 +1,5 @@
-Hola mundo!
+Hola, este archivo dará conflictos!
+Hola, este archivo dará conflictos!
+Hola, este archivo dará conflictos!
+Hola, este archivo dará conflictos!
+Hola, este archivo dará conflictos!
